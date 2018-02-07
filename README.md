@@ -1,4 +1,4 @@
-# ANSWER KING
+# GD Pvt Ltd
 Would you like fries with that?
 
 ### Note:
@@ -11,7 +11,7 @@ Would you like fries with that?
 mvn clean package
 
 (3) Run the Main Method
-java -jar target/answer-king-0.3.0-SNAPSHOT.war
+java -jar target/GDPrivateLtd-0.3.0-SNAPSHOT.war
 or
 mvn exec:java -Dexec.mainClass="gd.pvt.Application"
 

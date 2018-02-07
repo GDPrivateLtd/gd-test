@@ -5,13 +5,13 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.gd.pvt</groupId>
-	<artifactId>gd-pvt</artifactId>
+	<artifactId>GDPrivateLtd</artifactId>
 	<version>0.3.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>Answer King</name>
+	<name>GDPrivateLtd</name>
 	<description>Do you want fries with that?</description>
-	<url>http://www.answerdigital.com</url>
+	<url>http://www.gdprivateltd.com</url>
 
         <parent>
 		<groupId>org.springframework.boot</groupId>
